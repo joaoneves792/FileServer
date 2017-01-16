@@ -1,0 +1,5 @@
+GRUPO_50
+Ficheiro_inexistente 127.0.0.1 59000
+USS_Alabama_____.jpg 127.0.0.1 59000
+2013_2014_Proj_SocketProg.pdf 127.0.0.1 59000
+teste.txt 127.0.0.1 59000
